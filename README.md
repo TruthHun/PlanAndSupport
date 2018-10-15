@@ -11,8 +11,8 @@
 - https://www.wenkuzhijia.cn （文库之家）
 
 开源地址：
-- Gitee: https://gitee.com/truthhun/bookstack
-- GitHub: https://github.com/truthhun/bookstack
+- Gitee: https://gitee.com/truthhun/DocHub
+- GitHub: https://github.com/truthhun/DocHub
 
 ### BookStack
 > 功能类似GitBook和看云的在线文档管理系统。
@@ -21,8 +21,8 @@
 - https://www.bookstack.cn (书栈网)
 
 开源地址：
-- Gitee: https://gitee.com/truthhun/bookstack
-- GitHub: https://github.com/truthhun/bookstack
+- Gitee: https://gitee.com/truthhun/BookStack
+- GitHub: https://github.com/truthhun/BookStack
 
 ### 更多开源项目
 > 更多开源项目，请关注个人开源主页。
